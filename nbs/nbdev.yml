@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "dougu"
+  site-url: "https://terryn.github.io/dougu"
+  description: "A set of small functions for file and string manipulation"
+  repo-branch: main
+  repo-url: "https://github.com/terryn/dougu"
